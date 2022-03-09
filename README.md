@@ -22,3 +22,5 @@
 [✅ 변수란? 변수의 선언과 저장](https://mgyo.tistory.com/209) ch2-3
 
 [✅ 변수의 타입](https://mgyo.tistory.com/210) ch2-4
+
+[✅ 상수와 리터럴](https://mgyo.tistory.com/211) ch2-5
