@@ -10,3 +10,9 @@
 [✅ 자바 API문서 설치와 사용법](https://mgyo.tistory.com/205) ch1-7
 
 [✅ 첫 번째 Java프로그램 만들기(메모장 이용)](https://mgyo.tistory.com/206) ch1-8~9
+
+[✅ 이클립스 설치하고 개발하기](https://www.youtube.com/watch?v=emllFzqD1-0&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=7) ch1-10~12
+
+[✅ 이클립스 단축키, 자동 완성 기능, 주석](https://www.youtube.com/watch?v=UrbO_1sijvs&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=8) ch1-13~16
+
+[✅ 책의 소스와 강의자료 다운로드, 소스파이 가져오기, 내보내기](https://www.youtube.com/watch?v=U97lvN1JhrA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=9) ch1-17~19
