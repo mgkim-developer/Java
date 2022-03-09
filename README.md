@@ -20,3 +20,5 @@
 [✅ 화면에 글자 출력하기, 덧셈 뺄셈 계산하기](https://mgyo.tistory.com/208) ch2-1~2
 
 [✅ 변수란? 변수의 선언과 저장](https://mgyo.tistory.com/209) ch2-3
+
+[✅ 변수의 타입](https://mgyo.tistory.com/210) ch2-4
