@@ -18,3 +18,5 @@
 [✅ 책의 소스와 강의자료 다운로드, 소스파이 가져오기, 내보내기](https://www.youtube.com/watch?v=U97lvN1JhrA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=9) ch1-17~19
 
 [✅ 화면에 글자 출력하기, 덧셈 뺄셈 계산하기](https://mgyo.tistory.com/208) ch2-1~2
+
+[✅ 변수란? 변수의 선언과 저장](https://mgyo.tistory.com/209) ch2-3
