@@ -24,13 +24,29 @@ public class VarEx3 {
         double d = 3.14;    // d는 생략할 수 없음 (생략하면 에러발생)
         double d2 = 3.14f;  // 변수의 타입인 double이 리터럴의 타입float보다 더 넓은 타입이기 때문에 OK
 
+        char ch = 'A';
+        int i = 'A';        // 문자 'A'의 integer코드(65)가 저장된다
+
+        String str = "";
+        String str2 = "ABCD";
+        String str3 = "123";
+        String str4 = str2 + str3;
 
 //        System.out.println(score);
 //        System.out.println(power);
-        System.out.println(10.);
-        System.out.println(.10);    // println메소드는 값을 10진수로만 출력한다. 만약에 8진수나 16진수로 출력하려면 println대신 printf 사용
-        System.out.println(10f);
-        System.out.println(1e3);
+//        System.out.println(10.);
+//        System.out.println(.10);    // println메소드는 값을 10진수로만 출력한다. 만약에 8진수나 16진수로 출력하려면 println대신 printf 사용
+//        System.out.println(10f);
+//        System.out.println(1e3);
+
+        System.out.println(ch);
+        System.out.println(i);
+        System.out.println(str);
+        System.out.println(str2);
+        System.out.println(str4);
+        System.out.println("" + 7 + 7);
+        System.out.println(7 + 7 + "");
+
 
 
 
