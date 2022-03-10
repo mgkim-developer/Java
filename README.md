@@ -24,3 +24,5 @@
 [✅ 변수의 타입](https://mgyo.tistory.com/210) ch2-4
 
 [✅ 상수와 리터럴](https://mgyo.tistory.com/211) ch2-5
+
+[✅ 리터럴의 타입과 접미사](https://mgyo.tistory.com/214) ch2-6

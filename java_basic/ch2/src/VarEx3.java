@@ -9,7 +9,30 @@ public class VarEx3 {
 
 //        final int score;              // 지역변수인 score를 초기화 하지않고 출력하려하면 에러가 발생
 
+        boolean power = true;
+//        boolean power = false;
 
-        System.out.println(score);
+        byte b = 127;   // byte타입변수의 범위는 -128~127
+
+        int oct = 010;      // 접두사 0이 붙었으므로 8진수이고, 10진수로는 8이다.
+        int hex = 0x10;     // 접두사 0x가 붙었으므로 16진수고, 10진수로는 16이다.
+
+        long l = 1000_000_000;
+        long l2 = 10_000_000_000L;
+
+        float f = 3.14f;    // f는 생략가능
+        double d = 3.14;    // d는 생략할 수 없음 (생략하면 에러발생)
+        double d2 = 3.14f;  // 변수의 타입인 double이 리터럴의 타입float보다 더 넓은 타입이기 때문에 OK
+
+
+//        System.out.println(score);
+//        System.out.println(power);
+        System.out.println(10.);
+        System.out.println(.10);    // println메소드는 값을 10진수로만 출력한다. 만약에 8진수나 16진수로 출력하려면 println대신 printf 사용
+        System.out.println(10f);
+        System.out.println(1e3);
+
+
+
     }
 }
