@@ -32,3 +32,5 @@
 [✅ 두 변수 바꾸기](https://mgyo.tistory.com/218) ch2-9
 
 [✅ 기본형과 참조형](https://mgyo.tistory.com/219) ch2-10
+
+[✅ 기본형의 종류와 범위](https://mgyo.tistory.com/220) ch2-11
