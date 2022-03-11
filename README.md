@@ -28,3 +28,5 @@
 [✅ 리터럴의 타입과 접미사](https://mgyo.tistory.com/214) ch2-6
 
 [✅ 문자, 문자열 리터럴, 문자열 결합](https://mgyo.tistory.com/215) ch2-7~8
+
+[✅ 두 변수 바꾸기](https://mgyo.tistory.com/218) ch2-9
