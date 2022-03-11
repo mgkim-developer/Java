@@ -30,3 +30,5 @@
 [✅ 문자, 문자열 리터럴, 문자열 결합](https://mgyo.tistory.com/215) ch2-7~8
 
 [✅ 두 변수 바꾸기](https://mgyo.tistory.com/218) ch2-9
+
+[✅ 기본형과 참조형](https://mgyo.tistory.com/219) ch2-10
