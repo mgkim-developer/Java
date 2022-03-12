@@ -34,3 +34,5 @@
 [✅ 기본형과 참조형](https://mgyo.tistory.com/219) ch2-10
 
 [✅ 기본형의 종류와 범위](https://mgyo.tistory.com/220) ch2-11
+
+[✅ printf()를 이용한 출력](https://mgyo.tistory.com/222) ch2-12~13
