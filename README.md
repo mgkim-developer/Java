@@ -36,3 +36,5 @@
 [✅ 기본형의 종류와 범위](https://mgyo.tistory.com/220) ch2-11
 
 [✅ printf()를 이용한 출력](https://mgyo.tistory.com/222) ch2-12~13
+
+[✅ 화면으로부터 입력받기](https://mgyo.tistory.com/223) ch2-14
