@@ -44,3 +44,5 @@
 [✅ 타입간의 변환방](https://mgyo.tistory.com/225) ch2-17
 
 [✅ 연산자와 피연산자](https://mgyo.tistory.com/226) ch3-1~2
+
+[✅ 연산자의 우선순위와 결합규칙](https://mgyo.tistory.com/227) ch3-3~4
