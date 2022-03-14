@@ -41,4 +41,6 @@
 
 [✅ 정수형의 오버플로우](https://mgyo.tistory.com/224) ch2-15~16
 
-[✅ 타입간의 변환방법](https://mgyo.tistory.com/225) ch2-17
+[✅ 타입간의 변환방](https://mgyo.tistory.com/225) ch2-17
+
+[✅ 연산자와 피연산자](https://mgyo.tistory.com/226) ch3-1~2
