@@ -38,3 +38,5 @@
 [✅ printf()를 이용한 출력](https://mgyo.tistory.com/222) ch2-12~13
 
 [✅ 화면으로부터 입력받기](https://mgyo.tistory.com/223) ch2-14
+
+[✅ 정수형의 오버플로우](https://mgyo.tistory.com/224) ch2-15~16
