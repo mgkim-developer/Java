@@ -48,3 +48,5 @@
 [✅ 연산자의 우선순위와 결합규칙](https://mgyo.tistory.com/227) ch3-3~4
 
 [✅ 증감 연산자, 부호 연산자](https://mgyo.tistory.com/228) ch3-5~6
+
+[✅ 형변환 연산자, 자동 형변환](https://mgyo.tistory.com/229) ch3-7~8
