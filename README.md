@@ -50,3 +50,5 @@
 [✅ 증감 연산자, 부호 연산자](https://mgyo.tistory.com/228) ch3-5~6
 
 [✅ 형변환 연산자, 자동 형변환](https://mgyo.tistory.com/229) ch3-7~8
+
+[✅ 사칙 연산자, 산술변환](https://mgyo.tistory.com/230) ch3-9~10
