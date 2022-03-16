@@ -54,3 +54,5 @@
 [✅ 사칙 연산자, 산술변환](https://mgyo.tistory.com/230) ch3-9~10
 
 [✅ 반올림 Math.round(), 나머지 연산자](https://mgyo.tistory.com/231) ch3-11~12
+
+[✅ 비교 연산자, 문자열의 비교](https://mgyo.tistory.com/232) ch3-13~14
