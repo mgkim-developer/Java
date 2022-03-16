@@ -56,3 +56,5 @@
 [✅ 반올림 Math.round(), 나머지 연산자](https://mgyo.tistory.com/231) ch3-11~12
 
 [✅ 비교 연산자, 문자열의 비교](https://mgyo.tistory.com/232) ch3-13~14
+
+[✅ 논리 연산자, 논리 부정 연산자](https://mgyo.tistory.com/233) ch3-15~16
