@@ -1,6 +1,6 @@
 public class Ex3_9 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int a = 1_000_000;      // 1,000,000    1백만 = 10의 6제곱
         int b = 2_000_000;      // 2,000,000    2백만 = 10의 6제곱
 
