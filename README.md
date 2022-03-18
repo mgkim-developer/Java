@@ -62,3 +62,7 @@
 [✅ 조건 연산자, 대입 연산자](https://mgyo.tistory.com/234) ch3-17~19
 
 [✅ 조건문 if문과 if-else문](https://mgyo.tistory.com/235) ch4-1~4
+
+[✅ if-else if문, 중첩 if문](https://mgyo.tistory.com/236) ch4-5~8
+
+[✅ switch문](https://mgyo.tistory.com/239) ch4-9~11
