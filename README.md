@@ -68,3 +68,5 @@
 [✅ switch문](https://mgyo.tistory.com/239) ch4-9~11
 
 [✅ 임의의 정수 만들기](https://mgyo.tistory.com/241) ch4-12
+
+[✅ for문](https://mgyo.tistory.com/242) ch4-13~14
