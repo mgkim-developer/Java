@@ -66,3 +66,5 @@
 [✅ if-else if문, 중첩 if문](https://mgyo.tistory.com/236) ch4-5~8
 
 [✅ switch문](https://mgyo.tistory.com/239) ch4-9~11
+
+[✅ 임의의 정수 만들기](https://mgyo.tistory.com/241) ch4-12
