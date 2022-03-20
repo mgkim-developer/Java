@@ -72,3 +72,5 @@
 [✅ for문](https://mgyo.tistory.com/242) ch4-13~14
 
 [✅ 중첩 for문](https://mgyo.tistory.com/244) ch4-15
+
+[✅ while문, do-while문](https://mgyo.tistory.com/245) ch4-16~19
