@@ -76,3 +76,5 @@
 [✅ while문, do-while문](https://mgyo.tistory.com/245) ch4-16~19
 
 [✅ break문, continue문, 이름붙은 반복문](https://mgyo.tistory.com/246) ch4-20~24
+
+[✅ 배열의 생성과 선언, 배열의 인덱스](https://mgyo.tistory.com/248) ch5-1~3
