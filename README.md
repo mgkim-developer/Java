@@ -84,3 +84,5 @@
 [✅ 배열의 출력](https://mgyo.tistory.com/250) ch5-6~7
 
 [✅ 배열의 활용(1)~(2)](https://mgyo.tistory.com/251) ch5-8~9
+
+[✅ 배열의 활용(3)~(4)](https://mgyo.tistory.com/252) ch5-10~11
