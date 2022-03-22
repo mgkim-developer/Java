@@ -82,3 +82,5 @@
 [✅ 배열의 길이, 배열의 초기화](https://mgyo.tistory.com/249) ch5-4~5
 
 [✅ 배열의 출력](https://mgyo.tistory.com/250) ch5-6~7
+
+[✅ 배열의 활용(1)~(2)](https://mgyo.tistory.com/251) ch5-8~9
