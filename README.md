@@ -77,4 +77,6 @@
 
 [✅ break문, continue문, 이름붙은 반복문](https://mgyo.tistory.com/246) ch4-20~24
 
-[✅ 배열의 생성과 선언, 배열의 인덱스](https://mgyo.tistory.com/248) ch5-1~3
+[✅ 배열의 생성과 선언, 배열의 인덱](https://mgyo.tistory.com/248) ch5-1~3
+
+[✅ 배열의 길이, 배열의 초기화](https://mgyo.tistory.com/249) ch5-4~5
