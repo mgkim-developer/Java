@@ -86,3 +86,5 @@
 [✅ 배열의 활용(1)~(2)](https://mgyo.tistory.com/251) ch5-8~9
 
 [✅ 배열의 활용(3)~(4)](https://mgyo.tistory.com/252) ch5-10~11
+
+[✅ String배열](https://mgyo.tistory.com/253) ch5-12~13
