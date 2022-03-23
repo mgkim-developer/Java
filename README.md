@@ -88,3 +88,5 @@
 [✅ 배열의 활용(3)~(4)](https://mgyo.tistory.com/252) ch5-10~11
 
 [✅ String배열](https://mgyo.tistory.com/253) ch5-12~13
+
+[✅ String클래스](https://mgyo.tistory.com/254) ch5-14~15
