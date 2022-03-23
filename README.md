@@ -96,3 +96,5 @@
 [✅ 2차원 배열](https://mgyo.tistory.com/256) ch5-18~20
 
 [✅ 2차원 배열 예제](https://mgyo.tistory.com/257) ch5-21~23
+
+[✅ Arrays로 배열 다루기](https://mgyo.tistory.com/258) ch5-24
