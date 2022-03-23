@@ -90,3 +90,5 @@
 [✅ String배열](https://mgyo.tistory.com/253) ch5-12~13
 
 [✅ String클래스](https://mgyo.tistory.com/254) ch5-14~15
+
+[✅ 커맨드 라인 입력받기](https://mgyo.tistory.com/255) ch5-16~17
