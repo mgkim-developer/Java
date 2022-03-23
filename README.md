@@ -94,3 +94,5 @@
 [✅ 커맨드 라인 입력받기](https://mgyo.tistory.com/255) ch5-16~17
 
 [✅ 2차원 배열](https://mgyo.tistory.com/256) ch5-18~20
+
+[✅ 2차원 배열 예제](https://mgyo.tistory.com/257) ch5-21~23
