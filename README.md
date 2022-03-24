@@ -104,3 +104,5 @@
 [✅ 클래스와 객체](https://mgyo.tistory.com/260) ch6-2~4
 
 [✅ 하나의 파일에 여러 클래스 작성하기](https://mgyo.tistory.com/261) ch6-5
+
+[✅ 객체의 생성과 사용](https://mgyo.tistory.com/262) ch6-6~7
