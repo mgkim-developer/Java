@@ -108,3 +108,5 @@
 [✅ 객체의 생성과 사용](https://mgyo.tistory.com/262) ch6-6~7
 
 [✅ 객체 배열](https://mgyo.tistory.com/263) ch6-8
+
+[✅ 클래스의 정의](https://mgyo.tistory.com/264) ch6-9~10
