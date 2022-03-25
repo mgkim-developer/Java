@@ -112,3 +112,5 @@
 [✅ 클래스의 정의](https://mgyo.tistory.com/264) ch6-9~10
 
 [✅ 선언위치 변수 종류](https://mgyo.tistory.com/265) ch6-11
+
+[✅ 클래스 변수와 인스턴스 변수](https://mgyo.tistory.com/266) ch6-12~13
