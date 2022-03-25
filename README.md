@@ -114,3 +114,5 @@
 [✅ 선언위치 변수 종류](https://mgyo.tistory.com/265) ch6-11
 
 [✅ 클래스 변수와 인스턴스 변수](https://mgyo.tistory.com/266) ch6-12~13
+
+[✅ 메서드란? 메서드의 선언부와 구현부](https://mgyo.tistory.com/267) ch6-14~16
