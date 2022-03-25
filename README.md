@@ -110,3 +110,5 @@
 [✅ 객체 배열](https://mgyo.tistory.com/263) ch6-8
 
 [✅ 클래스의 정의](https://mgyo.tistory.com/264) ch6-9~10
+
+[✅ 선언위치 변수 종류](https://mgyo.tistory.com/265) ch6-11
