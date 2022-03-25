@@ -6,6 +6,7 @@ public class Ex6_4 {
         long result3 = mm.multiply(5L, 3L);
         double result4 = mm.divide(5L, 3L);
         long result5 = mm.max(5L, 3L);    // 둘 중에 큰 값을 반환하는 메서드
+        mm.printGugudan(2);    //  구구단 12단을 출력
 
         System.out.println("add(5L, 3L) = " + result1);
         System.out.println("subtract(5L, 3L) = " + result2);
@@ -29,13 +30,19 @@ class MyMath{
     double divide(double a, double b) {return a/ b;}
     // 두 값을 받아서 둘중에 큰 값을 반환하는 메서드를 작성하시오.
     long max(long a, long b) {
-        long result = 0;
-//        if (a>b) {
-//            result = a;
-//        } else{
-//            result = b;
-//        }
-        result = a > b ? a : b; // 위 문장을 삼항 연산자를 이용해서 작성
-        return result;
+        if (a>b) {
+            return a;   // 조건식이 참일때만 실행
+        } else{
+            return b;   // 조건식이 거짓일 때 실행
         }
+//        return a > b ? a : b; // 위 문장을 삼항 연산자를 이용해서 작성
+        }
+    void printGugudan(int dan) {
+        if (!(2 <= dan && dan <= 9))
+            return;     //입력받은 단(dan)이 2~9가 아니면, 메서드 종료하고 돌아가기
+        for (int i = 1; i <= 9; i = i + 1){
+            System.out.printf("%d * %d = %d%n", dan, i, dan * i);
+        }
+        return; // 메서드의 반환값이 return값이 void이므로 생략 가능
+    }
 }
