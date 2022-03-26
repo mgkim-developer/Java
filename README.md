@@ -119,4 +119,6 @@
 
 [✅ 메서드 호출과 메서드의 실행흐름](https://mgyo.tistory.com/268) ch6-17~19
 
-[✅ return문, 반환값](https://mgyo.tistory.com/269) ch6-20~21
+[✅ return문, 반환](https://mgyo.tistory.com/269) ch6-20~21
+
+[✅ 호출 스택](https://mgyo.tistory.com/270) ch6-22
