@@ -122,3 +122,5 @@
 [✅ return문, 반환](https://mgyo.tistory.com/269) ch6-20~21
 
 [✅ 호출 스택](https://mgyo.tistory.com/270) ch6-22
+
+[✅ 기본형 매개변수](https://mgyo.tistory.com/271) ch6-23
