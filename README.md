@@ -124,3 +124,5 @@
 [✅ 호출 스택](https://mgyo.tistory.com/270) ch6-22
 
 [✅ 기본형 매개변수](https://mgyo.tistory.com/271) ch6-23
+
+[✅ 참조형 매개변수, 참조형 반환타입](https://mgyo.tistory.com/276) ch6-24~25
