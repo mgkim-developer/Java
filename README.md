@@ -134,3 +134,5 @@
 [✅ 생성자, 기본 생성자](https://mgyo.tistory.com/281) ch6-32~35
 
 [✅ 생성자 this(), 참조변수 this](https://mgyo.tistory.com/282) ch6-36~37
+
+[✅ 변수의 초기화, 멤버 변수의 초기화](https://mgyo.tistory.com/283) ch6-38~41
