@@ -142,3 +142,5 @@
 [✅ 클래스 간의 관계, 상속과 포함](https://mgyo.tistory.com/286) ch7-3~4
 
 [✅ 단일 상속, Object 클래스](https://mgyo.tistory.com/287) ch7-5~6
+
+[✅ 오버라이딩](https://mgyo.tistory.com/288) ch7-7~9
