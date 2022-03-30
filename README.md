@@ -140,3 +140,5 @@
 [✅ 상속](https://mgyo.tistory.com/285) ch7-1~2
 
 [✅ 클래스 간의 관계, 상속과 포함](https://mgyo.tistory.com/286) ch7-3~4
+
+[✅ 단일 상속, Object 클래스](https://mgyo.tistory.com/287) ch7-5~6
