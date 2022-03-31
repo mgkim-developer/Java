@@ -148,3 +148,5 @@
 [✅ 참조변수 super, 생성자 super()](https://mgyo.tistory.com/290) ch7-10~11
 
 [✅ 패키지, 클래스 패스](https://mgyo.tistory.com/291) ch7-12~14
+
+[✅ import문, static import문](https://mgyo.tistory.com/292) ch7-15~16
