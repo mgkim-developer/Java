@@ -144,3 +144,5 @@
 [✅ 단일 상속, Object 클래스](https://mgyo.tistory.com/287) ch7-5~6
 
 [✅ 오버라이딩](https://mgyo.tistory.com/288) ch7-7~9
+
+[✅ 참조변수 super, 생성자 super()](https://mgyo.tistory.com/290) ch7-10~11
