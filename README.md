@@ -149,4 +149,6 @@
 
 [✅ 패키지, 클래스 패스](https://mgyo.tistory.com/291) ch7-12~14
 
-[✅ import문, static import문](https://mgyo.tistory.com/292) ch7-15~16
+[✅ import문, static import](https://mgyo.tistory.com/292) ch7-15~16
+
+[✅ 제어자, static, final, abstract](https://mgyo.tistory.com/294) ch7-17~20
