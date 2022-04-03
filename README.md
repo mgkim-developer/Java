@@ -159,4 +159,4 @@
 
 [✅ 다형성](https://mgyo.tistory.com/297) ch7-23
 
-[✅ 참조변수의 형변환(1)](https://mgyo.tistory.com/299) ch7-24~25
+[✅ 참조변수의 형변환(1~2)](https://mgyo.tistory.com/299) ch7-24~25
