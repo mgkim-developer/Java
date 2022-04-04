@@ -164,3 +164,5 @@
 [✅ instanceof 연산자](https://mgyo.tistory.com/300) ch7-26
 
 [✅ 매개변수 다형성](https://mgyo.tistory.com/307) ch7-27~28
+
+[✅ 여러 종류의 객체를 배열로 다루기](https://mgyo.tistory.com/308) ch7-29~30
