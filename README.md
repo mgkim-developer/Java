@@ -41,7 +41,7 @@
 
 [✅ 정수형의 오버플로우](https://mgyo.tistory.com/224) ch2-15~16
 
-[✅ 타입간의 변환방](https://mgyo.tistory.com/225) ch2-17
+[✅ 타입간의 변환방법](https://mgyo.tistory.com/225) ch2-17
 
 [✅ 연산자와 피연산자](https://mgyo.tistory.com/226) ch3-1~2
 
@@ -57,7 +57,7 @@
 
 [✅ 비교 연산자, 문자열의 비교](https://mgyo.tistory.com/232) ch3-13~14
 
-[✅ 논리 연산자, 논리 부정 연산](https://mgyo.tistory.com/233) ch3-15~16
+[✅ 논리 연산자, 논리 부정 연산자](https://mgyo.tistory.com/233) ch3-15~16
 
 [✅ 조건 연산자, 대입 연산자](https://mgyo.tistory.com/234) ch3-17~19
 
@@ -77,7 +77,7 @@
 
 [✅ break문, continue문, 이름붙은 반복문](https://mgyo.tistory.com/246) ch4-20~24
 
-[✅ 배열의 생성과 선언, 배열의 인덱](https://mgyo.tistory.com/248) ch5-1~3
+[✅ 배열의 생성과 선언, 배열의 인덱스](https://mgyo.tistory.com/248) ch5-1~3
 
 [✅ 배열의 길이, 배열의 초기화](https://mgyo.tistory.com/249) ch5-4~5
 
@@ -119,7 +119,7 @@
 
 [✅ 메서드 호출과 메서드의 실행흐름](https://mgyo.tistory.com/268) ch6-17~19
 
-[✅ return문, 반환](https://mgyo.tistory.com/269) ch6-20~21
+[✅ return문, 반환값](https://mgyo.tistory.com/269) ch6-20~21
 
 [✅ 호출 스택](https://mgyo.tistory.com/270) ch6-22
 
@@ -167,6 +167,6 @@
 
 [✅ 여러 종류의 객체를 배열로 다루기](https://mgyo.tistory.com/308) ch7-29~30
 
-[✅ 추상 클래스, 추상 메서](https://mgyo.tistory.com/310) ch7-31~32
+[✅ 추상 클래스, 추상 메서드](https://mgyo.tistory.com/310) ch7-31~32
 
 [✅ 추상 클래스의 작성 (1)](https://mgyo.tistory.com/311) ch7-33~34
