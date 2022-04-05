@@ -167,4 +167,6 @@
 
 [✅ 여러 종류의 객체를 배열로 다루기](https://mgyo.tistory.com/308) ch7-29~30
 
-[✅ 추상 클래스, 추상 메서드](https://mgyo.tistory.com/310) ch7-31~32
+[✅ 추상 클래스, 추상 메서](https://mgyo.tistory.com/310) ch7-31~32
+
+[✅ 추상 클래스의 작성 (1)](https://mgyo.tistory.com/311) ch7-33~34
