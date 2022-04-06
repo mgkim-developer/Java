@@ -172,3 +172,5 @@
 [✅ 추상 클래스의 작성 (1)](https://mgyo.tistory.com/311) ch7-33~34
 
 [✅ 추상 클래스의 작성 (2)](https://mgyo.tistory.com/312) ch7-33~34
+
+[✅ 인터페이스의 선언, 상속, 구현](https://mgyo.tistory.com/314) ch7-35~37
