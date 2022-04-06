@@ -176,3 +176,5 @@
 [✅ 인터페이스의 선언, 상속, 구현](https://mgyo.tistory.com/314) ch7-35~37
 
 [✅ 인터페이스와 다형성](https://mgyo.tistory.com/315) ch7-38
+
+[✅ 인터페이스의 장점 (1)](https://mgyo.tistory.com/316) ch7-39
