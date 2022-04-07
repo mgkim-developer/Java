@@ -178,3 +178,5 @@
 [✅ 인터페이스와 다형성](https://mgyo.tistory.com/315) ch7-38
 
 [✅ 인터페이스의 장점 (1)](https://mgyo.tistory.com/316) ch7-39
+
+[✅ 인터페이스의 장점 (2)](https://mgyo.tistory.com/317) ch7-39
