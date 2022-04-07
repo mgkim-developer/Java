@@ -180,3 +180,5 @@
 [✅ 인터페이스의 장점 (1)](https://mgyo.tistory.com/316) ch7-39
 
 [✅ 인터페이스의 장점 (2)](https://mgyo.tistory.com/317) ch7-39
+
+[✅ 디폴트 메서드와 static 메서드](https://mgyo.tistory.com/318) ch7-40~41
