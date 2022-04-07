@@ -182,3 +182,5 @@
 [✅ 인터페이스의 장점 (2)](https://mgyo.tistory.com/317) ch7-39
 
 [✅ 디폴트 메서드와 static 메서드](https://mgyo.tistory.com/318) ch7-40~41
+
+[✅ 내부 클래스의 종류, 특징, 선언](https://mgyo.tistory.com/319) ch7-42~44
