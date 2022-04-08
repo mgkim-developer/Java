@@ -188,3 +188,5 @@
 [✅ 내부 클래스의 제어자와 접근성](https://mgyo.tistory.com/320) ch7-45~50
 
 [✅ 익명 클래스](https://mgyo.tistory.com/321) ch7-51~52
+
+[✅ 프로그램 오류, 예외 클래스의 계층구조](https://mgyo.tistory.com/322) ch8-1~3
