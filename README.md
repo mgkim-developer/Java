@@ -186,3 +186,5 @@
 [✅ 내부 클래스의 종류, 특징, 선언](https://mgyo.tistory.com/319) ch7-42~44
 
 [✅ 내부 클래스의 제어자와 접근성](https://mgyo.tistory.com/320) ch7-45~50
+
+[✅ 익명 클래스](https://mgyo.tistory.com/321) ch7-51~52
