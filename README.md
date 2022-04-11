@@ -192,3 +192,5 @@
 [✅ 프로그램 오류, 예외 클래스의 계층구조](https://mgyo.tistory.com/322) ch8-1~3
 
 [✅ 예외 처리하기, try-catch문의 흐름](https://mgyo.tistory.com/324) ch8-4~6
+
+[✅ printStackTrace(), 멀티 catch블럭](https://mgyo.tistory.com/326) ch8-7~8
