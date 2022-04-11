@@ -196,3 +196,5 @@
 [✅ printStackTrace(), 멀티 catch블럭](https://mgyo.tistory.com/326) ch8-7~8
 
 [✅ 예외 발생시키기, checked, unchecked 예외](https://mgyo.tistory.com/327) ch8-9~10
+
+[✅ 예외 선언하기, finally블럭](https://mgyo.tistory.com/328) ch8-11~14
