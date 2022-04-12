@@ -198,3 +198,5 @@
 [✅ 예외 발생시키기, checked, unchecked 예외](https://mgyo.tistory.com/327) ch8-9~10
 
 [✅ 예외 선언하기, finally블럭](https://mgyo.tistory.com/328) ch8-11~14
+
+[✅ 사용자 정의 예외 만들기, 예외 되던지기](https://mgyo.tistory.com/330) ch8-15~17
