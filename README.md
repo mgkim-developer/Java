@@ -202,3 +202,5 @@
 [✅ 사용자 정의 예외 만들기, 예외 되던지기](https://mgyo.tistory.com/330) ch8-15~17
 
 [✅ 연결된 예외](https://mgyo.tistory.com/331) ch8-18
+
+[✅ Object클래스와 equals()](https://mgyo.tistory.com/333) ch9-1~3
