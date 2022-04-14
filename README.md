@@ -204,3 +204,5 @@
 [✅ 연결된 예외](https://mgyo.tistory.com/331) ch8-18
 
 [✅ Object클래스와 equals()](https://mgyo.tistory.com/333) ch9-1~3
+
+[✅ hashCode(), toString()](https://mgyo.tistory.com/334) ch9-4~6
