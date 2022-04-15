@@ -212,3 +212,5 @@
 [✅ String 생성자](https://mgyo.tistory.com/337) ch9-11
 
 [✅ StringJoiner, 문자열과 기본형 변환](https://mgyo.tistory.com/338) ch9-12~14
+
+[✅ StringBuffer 클래스](https://mgyo.tistory.com/339) ch9-15~18
