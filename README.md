@@ -216,3 +216,5 @@
 [✅ StringBuffer 클래스](https://mgyo.tistory.com/339) ch9-15~18
 
 [✅ StringBuffer 클래스의 메서드](https://mgyo.tistory.com/340) ch9-19~20
+
+[✅ StringBuilder, Math 클래스](https://mgyo.tistory.com/341) ch9-21~24
