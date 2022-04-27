@@ -234,3 +234,5 @@
 [✅ 형식화 클래스 SimpleDateFormat](https://mgyo.tistory.com/348) ch10-13~16
 
 [✅ 컬렉션 프레임웍과 핵심 인터페이스](https://mgyo.tistory.com/349) ch11-1~2
+
+[✅ Collection, List, set, Map](https://mgyo.tistory.com/351) ch11-3~6
