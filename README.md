@@ -230,3 +230,5 @@
 [✅ Calendar 예제(2)](https://mgyo.tistory.com/346) ch10-6~8
 
 [✅ 형식화 클래스 DecimalFormat](https://mgyo.tistory.com/347) ch10-9~12
+
+[✅ 형식화 클래스 SimpleDateFormat](https://mgyo.tistory.com/348) ch10-13~16
