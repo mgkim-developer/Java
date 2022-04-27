@@ -232,3 +232,5 @@
 [✅ 형식화 클래스 DecimalFormat](https://mgyo.tistory.com/347) ch10-9~12
 
 [✅ 형식화 클래스 SimpleDateFormat](https://mgyo.tistory.com/348) ch10-13~16
+
+[✅ 컬렉션 프레임웍과 핵심 인터페이스](https://mgyo.tistory.com/349) ch11-1~2
