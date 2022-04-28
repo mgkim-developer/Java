@@ -238,3 +238,5 @@
 [✅ Collection, List, set, Map](https://mgyo.tistory.com/351) ch11-3~6
 
 [✅ ArrayList](https://mgyo.tistory.com/352) ch11-7~11
+
+[✅ LinkedList](https://mgyo.tistory.com/353) ch11-12~14
