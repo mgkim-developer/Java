@@ -262,3 +262,5 @@
 [✅ HashMap (1)](https://mgyo.tistory.com/366) ch11-46~47
 
 [✅ HashMap (2)](https://mgyo.tistory.com/367) ch11-48~51
+
+[✅ Collections클래스, 컬렉션 클래스 요약](https://mgyo.tistory.com/368) ch11-52~56
