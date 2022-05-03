@@ -264,3 +264,5 @@
 [✅ HashMap (2)](https://mgyo.tistory.com/367) ch11-48~51
 
 [✅ Collections클래스, 컬렉션 클래스 요약](https://mgyo.tistory.com/368) ch11-52~56
+
+[✅ 지네릭스란?](https://mgyo.tistory.com/369) ch12-1
