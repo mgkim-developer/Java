@@ -266,3 +266,5 @@
 [✅ Collections클래스, 컬렉션 클래스 요약](https://mgyo.tistory.com/368) ch11-52~56
 
 [✅ 지네릭스란?](https://mgyo.tistory.com/369) ch12-1
+
+[✅ 타입 변수](https://mgyo.tistory.com/370) ch12-2~3
