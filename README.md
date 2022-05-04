@@ -272,3 +272,5 @@
 [✅ 지네릭스 용어, 지네릭 타입과 다형성](https://mgyo.tistory.com/371) ch12-4~6
 
 [✅ Iterator, HashMap과 지네릭스](https://mgyo.tistory.com/372) ch12-7~8
+
+[✅ 제한된 지네릭 클래스, 지네릭스의 제약](https://mgyo.tistory.com/373) ch12-9~11
