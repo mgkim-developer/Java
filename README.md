@@ -267,4 +267,6 @@
 
 [✅ 지네릭스란?](https://mgyo.tistory.com/369) ch12-1
 
-[✅ 타입 변수](https://mgyo.tistory.com/370) ch12-2~3
+[✅ 타입 변](https://mgyo.tistory.com/370) ch12-2~3
+
+[✅ 지네릭스 용어, 지네릭 타입과 다형성](https://mgyo.tistory.com/371) ch12-4~6
