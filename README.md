@@ -276,3 +276,5 @@
 [✅ 제한된 지네릭 클래스, 지네릭스의 제약](https://mgyo.tistory.com/373) ch12-9~11
 
 [✅ 와일드 카드, 지네릭 메서드](https://mgyo.tistory.com/375) ch12-12~14
+
+[✅ 지네릭 타입의 형변환, 지네릭 타입의 제거](https://mgyo.tistory.com/376) ch12-15~16
