@@ -280,3 +280,5 @@
 [✅ 지네릭 타입의 형변환, 지네릭 타입의 제거](https://mgyo.tistory.com/376) ch12-15~16
 
 [✅ 열거형](https://mgyo.tistory.com/377) ch12-17~20
+
+[✅ 열거형에 멤버 추가하기](https://mgyo.tistory.com/378) ch12-21~22
