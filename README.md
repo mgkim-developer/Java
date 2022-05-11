@@ -284,3 +284,5 @@
 [✅ 열거형에 멤버 추가하기](https://mgyo.tistory.com/378) ch12-21~22
 
 [✅ 애너테이션](https://mgyo.tistory.com/379) ch12-23~24
+
+[✅ 표준 애너테이션](https://mgyo.tistory.com/383) ch12-25~26
