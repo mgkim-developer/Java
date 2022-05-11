@@ -286,3 +286,5 @@
 [✅ 애너테이션](https://mgyo.tistory.com/379) ch12-23~24
 
 [✅ 표준 애너테이션](https://mgyo.tistory.com/383) ch12-25~26
+
+[✅ 메타 애너테이션](https://mgyo.tistory.com/384) ch12-27~33
