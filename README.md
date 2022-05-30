@@ -292,3 +292,5 @@
 [✅ 애너테이션 타입 정의하기, 애너테이션의 요소](https://mgyo.tistory.com/414) ch12-34~37
 
 [✅ 프로세스와 쓰레드, 멀티쓰레드의 장단점](https://mgyo.tistory.com/456) ch13-1~2
+
+[✅ 쓰레드의 구현과 실행](https://mgyo.tistory.com/458) ch13-1~2
