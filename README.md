@@ -293,4 +293,6 @@
 
 [✅ 프로세스와 쓰레드, 멀티쓰레드의 장단점](https://mgyo.tistory.com/456) ch13-1~2
 
-[✅ 쓰레드의 구현과 실행](https://mgyo.tistory.com/458) ch13-1~2
+[✅ 쓰레드의 구현과 실행](https://mgyo.tistory.com/458) ch13-3~6
+
+[✅ 싱글 쓰레드와 멀티 쓰레드, 쓰레드의 I/O 블락킹](https://mgyo.tistory.com/487) ch13-7~13
