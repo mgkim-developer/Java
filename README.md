@@ -267,7 +267,7 @@
 
 [✅ 지네릭스란?](https://mgyo.tistory.com/369) ch12-1
 
-[✅ 타입 변](https://mgyo.tistory.com/370) ch12-2~3
+[✅ 타입 변수](https://mgyo.tistory.com/370) ch12-2~3
 
 [✅ 지네릭스 용어, 지네릭 타입과 다형성](https://mgyo.tistory.com/371) ch12-4~6
 
@@ -298,3 +298,5 @@
 [✅ 싱글 쓰레드와 멀티 쓰레드, 쓰레드의 I/O 블락킹](https://mgyo.tistory.com/487) ch13-7~13
 
 [✅ 쓰레드의 우선순위, 쓰레드 그룹](https://mgyo.tistory.com/489) ch13-14~17
+
+[✅ 데몬 쓰레드, 쓰레드의 상태](https://mgyo.tistory.com/536) ch13-18~21
