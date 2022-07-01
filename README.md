@@ -300,3 +300,5 @@
 [✅ 쓰레드의 우선순위, 쓰레드 그룹](https://mgyo.tistory.com/489) ch13-14~17
 
 [✅ 데몬 쓰레드, 쓰레드의 상태](https://mgyo.tistory.com/536) ch13-18~21
+
+[✅ sleep(), interrupt()](https://mgyo.tistory.com/547) ch13-22~25
