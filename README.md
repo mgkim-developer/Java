@@ -304,3 +304,5 @@
 [✅ sleep(), interrupt()](https://mgyo.tistory.com/547) ch13-22~25
 
 [✅ suspend(), resume(), stop()](https://mgyo.tistory.com/568) ch13-26~27
+
+[✅ join(), yield()](https://mgyo.tistory.com/571) ch13-28~29

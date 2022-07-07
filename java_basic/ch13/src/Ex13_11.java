@@ -7,7 +7,7 @@ public class Ex13_11 {
         ThreadEx11_2 th2 = new ThreadEx11_2();
         th1.start();
         th2.start();
-        startTime = System.currentTimeMillis();
+        startTime = System.currentTimeMillis(); // 시작시간
 
         try {
             th1.join(); // main쓰레드가 th1의 작업이 끝날 때까지 기다린다.
