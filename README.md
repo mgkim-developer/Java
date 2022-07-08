@@ -306,3 +306,5 @@
 [✅ suspend(), resume(), stop()](https://mgyo.tistory.com/568) ch13-26~27
 
 [✅ join(), yield()](https://mgyo.tistory.com/571) ch13-28~29
+
+[✅ 쓰레드의 동기화](https://mgyo.tistory.com/574) ch13-30~33
