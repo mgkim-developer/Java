@@ -308,3 +308,5 @@
 [✅ join(), yield()](https://mgyo.tistory.com/571) ch13-28~29
 
 [✅ 쓰레드의 동기화](https://mgyo.tistory.com/574) ch13-30~33
+
+[✅ wait()과 notify()](https://mgyo.tistory.com/602) ch13-34~36
