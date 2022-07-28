@@ -310,3 +310,5 @@
 [✅ 쓰레드의 동기화](https://mgyo.tistory.com/574) ch13-30~33
 
 [✅ wait()과 notify()](https://mgyo.tistory.com/602) ch13-34~36
+
+[✅ 람다식이란? 람다식 작성하기](https://mgyo.tistory.com/603) ch14-1~4
