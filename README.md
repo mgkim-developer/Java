@@ -312,3 +312,5 @@
 [✅ wait()과 notify()](https://mgyo.tistory.com/602) ch13-34~36
 
 [✅ 람다식이란? 람다식 작성하기](https://mgyo.tistory.com/603) ch14-1~4
+
+[✅ 함수형 인터페이스](https://mgyo.tistory.com/607) ch14-5~6
