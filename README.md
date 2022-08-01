@@ -314,3 +314,5 @@
 [✅ 람다식이란? 람다식 작성하기](https://mgyo.tistory.com/603) ch14-1~4
 
 [✅ 함수형 인터페이스](https://mgyo.tistory.com/607) ch14-5~6
+
+[✅ java.util.function 패키지](https://mgyo.tistory.com/608) ch14-7~8
