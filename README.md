@@ -316,3 +316,5 @@
 [✅ 함수형 인터페이스](https://mgyo.tistory.com/607) ch14-5~6
 
 [✅ java.util.function 패키지](https://mgyo.tistory.com/608) ch14-7~8
+
+[✅ Predicate의 결합, 컬렉션 프레임웍과 함수형 인터페이스](https://mgyo.tistory.com/623) ch14-9~12
