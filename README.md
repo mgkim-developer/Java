@@ -319,4 +319,4 @@
 
 [✅ Predicate의 결합, 컬렉션 프레임웍과 함수형 인터페이스](https://mgyo.tistory.com/623) ch14-9~12
 
-[✅ 메서드의 참조, 생성자의 메서드 참조](https://mgyo.tistory.com/624) ch14-13~14
+[✅ 스트림, 스트림의 특징](https://mgyo.tistory.com/747) ch14-15~16
