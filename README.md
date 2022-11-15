@@ -320,3 +320,5 @@
 [✅ Predicate의 결합, 컬렉션 프레임웍과 함수형 인터페이스](https://mgyo.tistory.com/623) ch14-9~12
 
 [✅ 스트림, 스트림의 특징](https://mgyo.tistory.com/747) ch14-15~16
+
+[✅ 스트림 만들기](https://mgyo.tistory.com/748) ch14-17~22
