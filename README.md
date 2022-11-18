@@ -322,3 +322,7 @@
 [✅ 스트림, 스트림의 특징](https://mgyo.tistory.com/747) ch14-15~16
 
 [✅ 스트림 만들기](https://mgyo.tistory.com/748) ch14-17~22
+
+[✅ 스트림의 연산](https://mgyo.tistory.com/749) ch14-23~25
+
+[✅ 스트림의 중간연산(1)](https://mgyo.tistory.com/750) ch14-26~29
