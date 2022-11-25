@@ -1,5 +1,3 @@
-package ch14.src;
-
 import java.util.Optional;
 
 public class Ex14_7b {
