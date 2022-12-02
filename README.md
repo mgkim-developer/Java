@@ -334,3 +334,5 @@
 [✅ 스트림의 최종연산](https://mgyo.tistory.com/753) ch14-40~44
 
 [✅ collect()와 Collectors](https://mgyo.tistory.com/754) ch14-45~49
+
+[✅ 스트림의 그룹화와 분할](https://mgyo.tistory.com/755) ch14-50~55
